@@ -1,0 +1,275 @@
+{
+  "faq": [
+    {
+      "q": "How often should I see a dentist?",
+      "a": "A. The American Dental Association (ADA) recommends visiting a dentist at least twice a year for a check-up and a professional cleaning. Our office also recommends a minimum of two visits per year."
+    },
+    {
+      "q": "What do I do if I have a dental emergency?",
+      "a": "A. Please call our office as soon as you determine that you have a dental emergency. If you have a dental emergency during regular business hours, we will be glad to work you into our schedule."
+    },
+    {
+      "q": "What kind of toothbrush should I use?",
+      "a": "A. Adults should use a small-to-medium size toothbrush with soft-to-medium bristles. The head of the brush needs to be small enough to brush all areas of the mouth thoroughly, specifically the back of the mouth, which can be hard to reach. Children should use small toothbrushes with soft bristles. People with sensitive teeth can benefit from using gentle, soft bristled toothbrushes."
+    },
+    {
+      "q": "How often should I replace my toothbrush?",
+      "a": "A. The American Dental Association recommends that you replace your brush every 3 to 4 months. With each use, the bristles become worn and cleaning effectiveness decreases. Depending on your oral health, you may need to replace your brush sooner. Typically, children toothbrushes need to be replaced more regularly than adults."
+    },
+    {
+      "q": "Is a powered toothbrush more effective than a manual toothbrush?",
+      "a": "A. Generally, manual toothbrushes are just as effective as powered toothbrushes. Children may find brushing with a powered toothbrush more exciting. If you have difficulty using a manual toothbrush, a powered toothbrush may be much more comfortable and easier to use."
+    },
+    {
+      "q": "Should I brush or floss first?",
+      "a": "A. As long as you brush and floss thoroughly, it does not matter if you brush then floss or floss then brush. However, flossing before brushing enables the fluoride in your toothpaste to better reach the areas between the teeth."
+    },
+    {
+      "q": "Is one type of toothpaste better than the others?",
+      "a": "A. No. However, we recommend you use a toothpaste that contains fluoride and carries the ADA Seal of Acceptance, which means it has been assessed for safety and effectiveness. Studies consistently show that fluoride helps strengthen and rebuild tooth structure, and helps prevent dental decay."
+    },
+    {
+      "q": "Are payment plans available for my dental treatment?",
+      "a": "A. Yes. We accept all major credit cards and many types of dental insurance. We will process your insurance claim for you upon receipt of your co-payment."
+    }
+  ],
+  "commonProblems": [
+    {
+      "title": "Tooth Decay",
+      "text": "Tooth decay, also known as caries or cavities, is preventable. Carbohydrate-rich foods, such as candy, cookies, soft drinks and even fruit juices, leave deposits on your teeth. Those deposits bond with the bacteria that normally survive in your mouth and form plaque. The combination of deposits and plaque forms acids that can damage the mineral structure of teeth and eat away at tooth enamel, resulting in tooth decay."
+    },
+    {
+      "title": "Sensitive Teeth",
+      "text": "Your teeth expand and contract in reaction to changes in temperature. Hot and cold foods and beverages can cause pain or irritation to people with sensitive teeth. Over time, tooth enamel can be worn down, gums may recede or teeth may develop microscopic cracks, exposing the interior of the tooth and irritating nerve endings. Simply breathing cold air can be painful for those with extremely sensitive teeth."
+    },
+    {
+      "title": "Gum Disease",
+      "text": "Gum, or periodontal, disease can cause inflammation, tooth loss and bone damage, and common indicators are consistent bad breath or a bad taste in the mouth. Gums in the early stage of disease, known as gingivitis, can bleed easily and become red and swollen. As the disease progresses to periodontitis, teeth may fall out or need to be removed by a dentist. Gum disease is highly preventable and can usually be avoided through daily brushing and flossing."
+    },
+    {
+      "title": "Bad Breath (Halitosis)",
+      "text": "Daily brushing and flossing helps to prevent the build-up of food particles, plaque and bacteria in your mouth. Food particles left in the mouth deteriorate and cause bad breath. While certain foods, such as garlic or anchovies, may create temporary bad breath, consistent bad breath may be a sign of gum disease or another dental problem."
+    },
+    {
+      "title": "Canker Sores",
+      "text": "Canker sores (aphthous ulcers) are small sores inside the mouth that often recur. They have a white or gray base surrounded by a red border. Generally lasting one or two weeks, the duration of canker sores can be reduced by the use of antimicrobial mouthwashes or topical agents."
+    },
+    {
+      "title": "Orthodontic Problems",
+      "text": "A bite that does not meet properly (a malocclusion) can be inherited, or some types of improper bites may be acquired. Common causes of malocclusion include missing or extra teeth, crowded teeth, misaligned jaws, injuries/trauma or developmental issues, such as finger or thumb sucking."
+    }
+  ],
+  "emergencies": [
+    {
+      "title": "Tooth Ache",
+      "text": "Begin by meticulously cleaning around the sore tooth. Using warm salt water, rinse the mouth to displace any food trapped between teeth. Do not use aspirin on the aching tooth or on the gum. If you have facial swelling, apply a cold compress to the area. For temporary pain relief, acetaminophen is recommended. If the pain persists more than a day, please contact us."
+    },
+    {
+      "title": "Cut or Bitten Tongue, Lip or Cheek",
+      "text": "Ice can be applied to any bruised areas. For bleeding, apply firm (but gentle) pressure with sterile gauze or a clean cloth. If the bleeding does not stop with pressure, or continues longer than 15 minutes, please go to the nearest emergency room."
+    },
+    {
+      "title": "Broken Tooth",
+      "text": "Recover any of the broken tooth fragments. Rinse the area with warm water, and apply a cold compress over the facial area of the injury. Please seek immediate dental attention."
+    },
+    {
+      "title": "Knocked Out Permanent Tooth",
+      "text": "Recover the tooth, making sure to hold it by the crown (top) and not the root. Rinse, but do not clean or handle the tooth more than necessary. Reinsert the tooth into the socket, and hold it in place using a clean piece of gauze or cloth. If the tooth cannot be reinserted, carry it in a cup of milk or water. Time is essential, so see a dentist immediately."
+    },
+    {
+      "title": "Possible Broken Jaw",
+      "text": "In the event of a jaw injury, tie the mouth closed with a towel, tie or handkerchief. Go immediately to the nearest emergency room."
+    },
+    {
+      "title": "Bleeding After a Baby Tooth Falls Out",
+      "text": "Fold a piece of gauze, and place it (tightly) over the bleeding area. Bite down on the gauze for 15 minutes. If the bleeding continues, please see a dentist."
+    },
+    {
+      "title": "Cold or Canker Sores",
+      "text": "Over-the-counter medications will usually provide temporary relief. If the sores persist, visit your dentist."
+    }
+  ],
+  "brushing": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The cornerstone to a good at-home oral hygiene regimen is proper brushing and flossing. Practicing excellent dental hygiene avoids unhealthy teeth and costly dental treatments."
+        }
+      ]
+    },
+    {
+      "heading": "Brushing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Use a toothbrush with soft bristles and a small strip of fluoride toothpaste. When you brush your teeth, move the brush in small, circular motions to reach food particles that may be under your gum line. Hold the toothbrush at an angle and brush slowly and carefully, covering all areas between teeth and the surface of each tooth. It will take you several minutes to thoroughly brush your teeth. Brush up on the lower teeth, down on the upper teeth and the outside, inside and chewing surface of your front and back teeth. Brush your tongue and the roof of your mouth before you rinse."
+        },
+        {
+          "type": "p",
+          "text": "Brush your teeth four times daily to avoid the accumulation of food particles and plaque:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "In the morning after breakfast",
+            "After lunch or right after school",
+            "After dinner",
+            "At bedtime"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Do not swallow any toothpaste, and rinse your mouth thoroughly with water after you finish brushing. As soon as the bristles start to wear down or fray, replace your toothbrush with a new one."
+        }
+      ]
+    },
+    {
+      "heading": "Flossing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "For areas between the teeth that a toothbrush can't reach, dental floss is used to remove food particles and plaque. Dental floss is a thin thread of waxed nylon that is used to reach below the gum line and clean between teeth. It is very important to floss between your teeth every day."
+        },
+        {
+          "type": "p",
+          "text": "Pull a small length of floss from the dispenser. Wrap the ends of the floss tightly around your middle fingers. Guide the floss between all teeth to the gum line, pulling out any food particles or plaque. Unwrap clean floss from around your fingers as you go so that you have used the floss from beginning to end when you finish. Floss behind all of your back teeth."
+        },
+        {
+          "type": "p",
+          "text": "Floss at night to make sure your teeth are clean before you go to bed. When you first begin flossing, your gums may bleed a little. If the bleeding does not stop after the first few times flossing, let a staff member know at your next appointment."
+        }
+      ]
+    }
+  ],
+  "firstVisit": [
+    {
+      "type": "p",
+      "text": "Thank you for choosing our office in Jamestown, North Dakota, for all your dental needs. We have created a comfortable environment where you can feel confident in the level of dental care you receive. When you arrive for your first visit, please be prepared to complete all insurance and health information forms that will allow us to begin your dental treatment. We will ask you to fill out several forms that will get you acquainted with our office. If you would like to fill out the forms prior to your appointment, please be sure to provide us with your e-mail address and we can get them sent to you."
+    },
+    {
+      "type": "p",
+      "text": "Your initial exam will last approximately one hour. This visit will help us get acquainted with each other and learn about your goals and desires for your dental treatment. Generally, X-rays will be taken allowing your doctor to examine the jaw's structure, teeth position and teeth decay. Oral hygiene instructions will also be provided along with suggestions to help you care for your teeth. In most cases, we will also clean your teeth on this visit and provide an evaluation that will outline your existing dental problems and proposed treatment."
+    },
+    {
+      "type": "p",
+      "text": "We believe that good dental care begins with open communication. We promise to speak candidly with you about any symptoms present that may require further dental treatment, our diagnosis, alternative treatments that may exist, and our recommendations. Working together, we can achieve a true partnership, with one common goal-keeping your smile beautiful and your teeth, gums and jaw joints healthy!"
+    }
+  ],
+  "officePolicies": [
+    {
+      "heading": "Our Mission",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "It is our mission to provide exceptional dental care and education to our patients in a friendly environment."
+        }
+      ]
+    },
+    {
+      "heading": "Office Hours",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Monday - Thursday: 8:00 a.m. - 5:00 p.m. Friday: 8:00 a.m. - 2:00 p.m."
+        }
+      ]
+    },
+    {
+      "heading": "Appointments",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Appointments are an important part of your treatment, as time has been reserved specifically for you. Please arrive on time for your appointment. If you are more than 15 minutes late, you may be asked to reschedule. We request a 24-hour notice if you need to cancel your appointment. We are aware that unforeseen events sometimes require missing an appointment, and we appreciate your cooperation."
+        }
+      ]
+    },
+    {
+      "heading": "Insurance",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Our office is committed to helping you maximize your insurance benefits. Because insurance policies vary, we can only estimate your coverage in good faith but cannot guarantee coverage due to the complexities of insurance contracts. Please inform us of any changes to your insurance coverage."
+        }
+      ]
+    }
+  ],
+  "financial": [
+    "Your treatment plan will include a breakdown of all applicable fees, and we will inform you of all costs before treatment is administered. Charges are payable at the time of treatment.",
+    "Please ask a member of our staff, and we will review our payment options to accommodate your financial needs.",
+    "If special arrangements are needed, please talk to our office manager prior to receiving service. We do offer one option for outside financing and that is CareCredit. Please see CareCredit for more information.",
+    "Additionally, we will submit all insurance claims for you. We will fully attempt to help you receive full insurance benefits; however, you are personally responsible for your account, and we encourage you to contact us if your policy has not been paid within 30 days. We are a provider for North Dakota Healthy Steps.",
+    "We accept cash, checks, Visa, MasterCard, Discover, and American Express, as well as debit and health savings cards."
+  ],
+  "toothDecayArticles": [
+    {
+      "title": "Tooth Decay — A Preventable Disease",
+      "href": "https://www.deardoctor.com/library/70002/?issue=issue6&startid=26",
+      "excerpt": "Tooth decay is the number one reason children and adults lose teeth during their lifetime. Yet many people don't realize that it is a preventable infection. This article explores the causes of tooth decay, its prevention, and the relationship to bacteria, sugars, and acids..."
+    },
+    {
+      "title": "Tooth Decay - How To Assess Your Risk",
+      "href": "https://www.deardoctor.com/library/70002/?issue=issue12&startid=36",
+      "excerpt": "Don't wait for cavities to occur and then have them fixed — stop them before they start. Modern dentistry is moving towards an approach to managing tooth decay that is evidence-based — on years of accumulated, systematic, and valid scientific research. This article discusses what you need to know to assess your risk and change the conditions that lead to decay..."
+    },
+    {
+      "title": "Dentistry and Oral Health for Children",
+      "href": "https://www.deardoctor.com/library/70002/?issue=issue19&startid=24",
+      "excerpt": "Dear Doctor magazine brings you this wide-ranging overview of milestones and transitions in your child's dental development. Learn how to protect your children from tooth decay, dental injuries, and unhealthy habits while getting them started on the road to a lifetime of oral health and general well-being..."
+    }
+  ],
+  "toothDecay": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tooth decay is often called the second most prevalent human disease, after the common cold. Without effective treatment (as was the case through most of history) it can lead to pain, tooth loss, and sometimes worse illnesses. Even today, it's estimated to affect over a quarter of U.S children from ages two to five, and half of those aged 12-15. But it doesn't necessarily have to! Working together with our office, you can take steps to prevent tooth decay from harming your teeth — or those of your loved ones."
+        },
+        {
+          "type": "p",
+          "text": "There's one important fact you should understand up front: No single \"magic bullet\" can stop tooth decay in every case. Instead, fighting decay should be viewed as a process of preventive maintenance, like taking care of your car — except that (unlike a car) your natural teeth, with proper care, can last a whole lifetime. The basic aspects of this process are practicing good oral hygiene at home, and coming in to our office for regular cleanings and checkups."
+        },
+        {
+          "type": "p",
+          "text": "If you've been coming in for routine visits, you're probably already familiar with the special tools we use to remove buildups of plaque (a bacterial biofilm) and tartar (a hardened deposit, also called calculus) from your teeth. We may use hand-held instruments, ultrasonic scalers, or both to give your teeth a thorough cleaning. Afterwards, we check thoroughly for decay, and treat cavities when necessary."
+        },
+        {
+          "type": "p",
+          "text": "Yet there's still more we can do to prevent tooth decay. Could your diet be a contributing factor? Is your brushing technique adequate? Could you benefit from additional preventive treatments? Today, with our increased understanding of what causes tooth decay and how to treat it, we can truly focus on decay prevention in your particular case. In fact, it's now possible to assess each individual's risk factors for decay, and concentrate on doing what's most effective for you."
+        }
+      ]
+    },
+    {
+      "heading": "How Does Decay Start?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We think of the mouth as a dynamically balanced ecosystem, in which living organisms, including helpful and harmful bacteria, are constantly interacting. When conditions are right — namely, in the presence of certain sugars — some pathogenic (harmful) bacteria produce acids that cause teeth to lose minerals and begin breaking down. Even a diet having excessive acidic foods can influence deminerialization of your teeth. But in more favorable conditions, the damage these pathogens do is undone by the body's own healing mechanisms — which includes your healthy saliva."
+        },
+        {
+          "type": "p",
+          "text": "Our goal in decay prevention is to tip the balance in favor of the beneficial processes. Keeping up a regular habit of brushing and flossing, getting adequate fluoride, and a diet with limited acidic foods is certainly helpful. Yet even with these measures, some individuals will be more prone to tooth decay than others, and may need extra help and guidance."
+        }
+      ]
+    },
+    {
+      "heading": "Additional Steps to Prevent Tooth Decay",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "If you're one of these individuals, we can demonstrate effective brushing techniques and recommend other steps you can take at home, like using special tooth pastes or rinses. When necessary, in-office treatments such as topical fluoride applications are available. If you aren't getting enough fluoride through drinking water or other sources, this treatment can help prevent tooth decay. Anti-bacterial treatments may also be beneficial in some cases, as is nutritional counseling."
+        },
+        {
+          "type": "p",
+          "text": "Finally, if your child's teeth are susceptible to tooth decay, we can apply a dental sealant. This is a practically invisible layer of plastic resin that is placed on the top (chewing) surfaces of the back teeth. It's a painless procedure that fills in the natural pits and folds of the tooth, making them much more resistant to bacterial damage."
+        },
+        {
+          "type": "p",
+          "text": "So, don't think that tooth decay is inevitable — instead, come in and ask us what we can do together to help prevent this disease from affecting you or your loved ones."
+        }
+      ]
+    }
+  ]
+}
